@@ -22,6 +22,7 @@ Visualizations: Visual representations of the data analysis results.
 **To replicate the analysis**
 
 Ensure you have access to the employee attrition dataset. The dataset can be downloaded here: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
+
 Execute the SQL scripts provided in the SQL Scripts directory in your preferred SQL environment.
 Refer to the documentation for explanations of the analysis steps and SQL queries.
 Explore the results and visualizations to understand patterns and insights related to employee attrition.
